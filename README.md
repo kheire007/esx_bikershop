@@ -1,4 +1,4 @@
 # esx_bikershop
 BikerShop
-install it like other the jobs
+install it like the other  jobs
 be happy
